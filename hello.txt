@@ -1,1 +1,3 @@
 Hello! This is my first time using Atom.
+
+adding another line to this text file
